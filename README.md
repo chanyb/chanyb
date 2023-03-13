@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">chanyb's GitHub stats</h3>
 <p align="center">
-![chanyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true)
+  <a href="https://github.com/chanyb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true" />
+  </a>
 </p>
-
 
 ![chanyb's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chanyb&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite)
