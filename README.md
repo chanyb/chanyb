@@ -22,4 +22,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![chanyb's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chanyb&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite)
+<h3 align="center">chanyb's Most Used Languages</h3>
+<p align="center">
+  <a href="https://github.com/chanyb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyb&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite" />
+  </a>
+</p>
