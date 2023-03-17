@@ -28,8 +28,4 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">chanyb's activity graph</h3>
-<p align="center">
-  <a href="https://github.com/chanyb">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=chanyb&theme=nord" />
-  </a>
-</p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
