@@ -26,3 +26,10 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyb&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite" />
   </a>
 </p>
+
+<h3 align="center">chanyb's activity graph</h3>
+<p align="center">
+  <a href="https://github.com/chanyb">
+    <img align="center" src="https://github.com/chanyb/github-readme-activity-graph" />
+  </a>
+</p>
