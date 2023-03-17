@@ -27,5 +27,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">chanyb's activity graph</h3>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![chanyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite)
