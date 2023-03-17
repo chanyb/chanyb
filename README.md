@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <h3 align="center">chanyb's activity graph</h3>
 <p align="center">
   <a href="https://github.com/chanyb">
-    <img align="center" src="https://github.com/chanyb/github-readme-activity-graph" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=chanyb&theme=graywhite" />
   </a>
 </p>
