@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <h3 align="center">chanyb's commit graph</h3>
 <p align="center">
   <a href="https://github.com/chanyb">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=high-contrast" />
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=chanyb&theme=high-contrast" />
   </a>
 </p>
