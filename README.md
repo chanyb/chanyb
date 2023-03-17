@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="left">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyb&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyb&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite" style="vertical-align: top;" />
   </div>
 </div>
 
