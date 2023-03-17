@@ -13,23 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">chanyb's GitHub stats</h3>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite" />
-  </a>
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyb&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true" />
+  </div>
+</div>
 
-<h3 align="center">chanyb's Most Used Languages</h3>
-<p align="center">
-  <a href="https://github.com/chanyb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyb&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=graywhite" />
-  </a>
-</p>
-
-<h3 align="center">chanyb's commit graph</h3>
 <p align="center">
   <a href="https://github.com/chanyb">
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=chanyb&theme=high-contrast" />
   </a>
 </p>
+
+
