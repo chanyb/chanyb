@@ -13,17 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/chanyb>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanyb&theme=graywhite" />
-  </a>
-</p>
-
 <h3 align="center">chanyb's GitHub stats</h3>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite" />
   </a>
 </p>
 
@@ -34,4 +27,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![chanyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite)
+<h3 align="center">chanyb's commit graph</h3>
+<p align="center">
+  <a href="https://github.com/chanyb">
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=high-contrast" />
+  </a>
+</p>
