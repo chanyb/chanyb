@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">chanyb's GitHub stats</h3>
 <p align="center">
-  <a href="https://github.com/chanyb">
+  <a href="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true" />
   </a>
 </p>
