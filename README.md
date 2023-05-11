@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanyb%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+# Tear (Rank)
+### 롤 티어보다 높아지는 날까지..😂
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanyb" />
+
+# GitHub stats
 <div align="left">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=chanyb&show_icons=true&theme=graywhite&include_all_commits=true" />
@@ -27,4 +32,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chanyb0827@gmail.com)](mailto:chanyb0827@gmail.com)
